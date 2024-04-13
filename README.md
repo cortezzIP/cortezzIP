@@ -1,4 +1,4 @@
-### null
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%D0%9C%D1%8B+%D0%B2%D1%81%D0%B5+%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE+%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B)](https://git.io/typing-svg)
 
 <!--
 **cortezzIP/cortezzIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
